@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1579399e-4d6a-4fab-a156-edf73235c8f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/entity/RoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/entity/UserAuthTokenEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/entity/UserEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/controller/SignupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/controller/SignupController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proman-api/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proman-db/src/main/resources/config/localhost.properties" beforeDir="false" afterPath="$PROJECT_DIR$/proman-db/src/main/resources/config/localhost.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proman-db/src/main/resources/sql/db-seed-data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/proman-db/src/main/resources/sql/db-seed-data.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,7 +351,7 @@
       <workItem from="1611329653890" duration="70000" />
       <workItem from="1611353671483" duration="30000" />
       <workItem from="1611362781045" duration="927000" />
-      <workItem from="1611363727146" duration="4709000" />
+      <workItem from="1611363727146" duration="7023000" />
     </task>
     <servers />
   </component>
