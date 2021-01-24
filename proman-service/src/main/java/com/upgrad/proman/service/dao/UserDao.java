@@ -8,6 +8,7 @@ import javax.persistence.PersistenceContext;
 
 @Repository
 public class UserDao {
+
     @PersistenceContext
     private EntityManager entityManager;
 
