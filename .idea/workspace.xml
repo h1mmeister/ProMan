@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1579399e-4d6a-4fab-a156-edf73235c8f2" name="Default Changelist" comment="starting getUser endpoint">
-      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/UserBusinessService.java" afterDir="false" />
+    <list default="true" id="1579399e-4d6a-4fab-a156-edf73235c8f2" name="Default Changelist" comment="created UserBusinessService and UserAdminController">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/controller/UserAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/controller/UserAdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/UserBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/UserAdminBusinessService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,7 +359,7 @@
       <workItem from="1538157182226" duration="565000" />
       <workItem from="1611376018210" duration="281000" />
       <workItem from="1611527796549" duration="5921000" />
-      <workItem from="1611616963136" duration="2035000" />
+      <workItem from="1611616963136" duration="3527000" />
     </task>
     <task id="LOCAL-00001" summary="starting getUser endpoint">
       <created>1611617715193</created>
@@ -369,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611617715193</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="created UserBusinessService and UserAdminController">
+      <created>1611619177829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611619177829</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -452,7 +458,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="starting getUser endpoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting getUser endpoint" />
+    <MESSAGE value="created UserBusinessService and UserAdminController" />
+    <option name="LAST_COMMIT_MESSAGE" value="created UserBusinessService and UserAdminController" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/SignupUserResponse.java" />
