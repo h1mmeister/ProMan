@@ -12,6 +12,12 @@ public class UserAdminBusinessService {
     private UserDao userDao;
 
     public UserEntity getUser(final String userUuid){
-        return userDao.getUser(userUuid);
+
+        UserEntity userEntity =  userDao.getUser(userUuid);
+        if(userEntity == null){
+            //throw an exception here
+        }
+        return userEntity;
     }
 }
+
