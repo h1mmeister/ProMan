@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1579399e-4d6a-4fab-a156-edf73235c8f2" name="Default Changelist" comment="signup and user-admin controlled completed, milestone_1">
+      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/exception/ResourceNotFoundException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/controller/UserAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/controller/UserAdminController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/UserAdminBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/UserAdminBusinessService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/dao/UserDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,6 +288,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.PromanApiApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All Features in: proman" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="FILE_PATH" value="$PROJECT_DIR$" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
@@ -349,7 +361,7 @@
       <workItem from="1611616963136" duration="3807000" />
       <workItem from="1611622209053" duration="12000" />
       <workItem from="1611796988995" duration="557000" />
-      <workItem from="1611854813590" duration="1386000" />
+      <workItem from="1611854813590" duration="2972000" />
     </task>
     <task id="LOCAL-00001" summary="starting getUser endpoint">
       <created>1611617715193</created>
