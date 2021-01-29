@@ -15,7 +15,7 @@ import javax.validation.constraints.*;
  * UserSummaryType
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2021-01-29T01:59:22.895+05:30")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2021-01-30T02:19:43.659+05:30")
 
 public class UserSummaryType   {
   @JsonProperty("id")
