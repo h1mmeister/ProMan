@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1579399e-4d6a-4fab-a156-edf73235c8f2" name="Default Changelist" comment="signup and user-admin controlled completed, milestone_1">
-      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/exception/AuthenticationFailedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/common/ErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/common/GenericErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/common/JwtTokenProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/common/UnexpectedException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/exception/RestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/exception/RestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/dao/UserDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -368,7 +373,7 @@
       <workItem from="1611622209053" duration="12000" />
       <workItem from="1611796988995" duration="557000" />
       <workItem from="1611854813590" duration="6396000" />
-      <workItem from="1611943229405" duration="4252000" />
+      <workItem from="1611943229405" duration="6336000" />
     </task>
     <task id="LOCAL-00001" summary="starting getUser endpoint">
       <created>1611617715193</created>
