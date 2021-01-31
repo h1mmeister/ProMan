@@ -5,10 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1579399e-4d6a-4fab-a156-edf73235c8f2" name="Default Changelist" comment="signup and user-admin controlled completed, milestone_1">
+      <change afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/exception/UnauthorizedException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/controller/UserAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/controller/UserAdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/SignupBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/SignupBusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/exception/RestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/src/main/java/com/upgrad/proman/api/exception/RestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/AuthorizedUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/AuthorizedUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/CreateUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/CreateUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/CreateUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/CreateUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/ErrorResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/PermissionsType.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/PermissionsType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/RoleDetailsType.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/RoleDetailsType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/RoleRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/RoleRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/RoleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/RoleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/SignupUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/SignupUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/SignupUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/SignupUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UpdateUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UpdateUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UserDetailsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UserDetailsResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UserOperationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UserOperationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UserOperationsRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UserOperationsRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UserSummaryType.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UserSummaryType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UsersSummaryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/com/upgrad/proman/api/model/UsersSummaryResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/api/ApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/api/ApiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/api/ApiOriginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/api/ApiOriginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/api/ApiResponseMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/api/ApiResponseMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/api/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/api/NotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/configuration/SwaggerDocumentationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/generated-sources/io/swagger/configuration/SwaggerDocumentationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-api/target/proman-api-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/proman-api/target/proman-api-1.0.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/UserAdminBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/business/UserAdminBusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/src/main/java/com/upgrad/proman/service/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proman-service/target/proman-service-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/proman-service/target/proman-service-1.0.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,13 +317,15 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.PromanApiApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -367,7 +394,8 @@
       <workItem from="1611796988995" duration="557000" />
       <workItem from="1611854813590" duration="6396000" />
       <workItem from="1611943229405" duration="8084000" />
-      <workItem from="1612018237016" duration="5137000" />
+      <workItem from="1612018237016" duration="6543000" />
+      <workItem from="1612058739376" duration="2086000" />
     </task>
     <task id="LOCAL-00001" summary="starting getUser endpoint">
       <created>1611617715193</created>

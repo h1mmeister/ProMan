@@ -12,5 +12,6 @@ C:\Users\himanshuy\Downloads\pgdse\Projects\Proman\proman\proman-service\src\mai
 C:\Users\himanshuy\Downloads\pgdse\Projects\Proman\proman\proman-service\src\main\java\com\upgrad\proman\service\entity\UserEntity.java
 C:\Users\himanshuy\Downloads\pgdse\Projects\Proman\proman\proman-service\src\main\java\com\upgrad\proman\service\common\JwtTokenProvider.java
 C:\Users\himanshuy\Downloads\pgdse\Projects\Proman\proman\proman-service\src\main\java\com\upgrad\proman\service\business\UserAdminBusinessService.java
+C:\Users\himanshuy\Downloads\pgdse\Projects\Proman\proman\proman-service\src\main\java\com\upgrad\proman\service\exception\UnauthorizedException.java
 C:\Users\himanshuy\Downloads\pgdse\Projects\Proman\proman\proman-service\src\main\java\com\upgrad\proman\service\business\PasswordCryptographyProvider.java
 C:\Users\himanshuy\Downloads\pgdse\Projects\Proman\proman\proman-service\src\main\java\com\upgrad\proman\service\entity\RoleEntity.java
